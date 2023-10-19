@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Loteria</string>
+    <string name="introduce_loteria">Introduce el número de loteria</string>
+    <string name="introduce_serie">Introduce el número de serie</string>
+    <string name="introduce_fraccion">Introduce la fracción</string>
+    <string name="introduce_importe">Introduce el importe jugado</string>
+    <string name="Decimos_loteria">Décimos de Loteria</string>
+    <string name="sin_decimos">Sin décimos que mostrar</string>
+    <string name="serie">SERIE:</string>
+    <string name="fraccion">FRACCIÓN:</string>
+    <string name="precio">PRECIO:</string>
+    <string name="origen_decimo">introduce origen del décimo</string>
+</resources>
